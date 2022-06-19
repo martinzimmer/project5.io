@@ -1,8 +1,9 @@
-title: "Blog Title"
+title: "project5.io"
 author: "Blog Author"
 description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
 permalink: /:title/
-lang: "en"
+lang: "de"
+url: "https://project5.io"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
